@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 6/20/2012 12:47:10 AM
+#
+$CMP Z8FMC
+D Z8FMC Series Motor Control MCU
+K Z8FMC motor PWM
+F doc/zilog/Z8FMC.pdf
+$ENDCMP
+#
+#End Doc Library
