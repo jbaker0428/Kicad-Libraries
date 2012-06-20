@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 6/20/2012 1:17:42 AM
+#
+$CMP L298HN
+D Dual Full-Bridge Driver
+K bridge driver PWM TTL
+F doc/st/L298.pdf
+$ENDCMP
+#
+$CMP L298N
+D Dual Full-Bridge Driver
+K bridge driver pwm TTL
+F doc/st/L298.pdf
+$ENDCMP
+#
+#End Doc Library
