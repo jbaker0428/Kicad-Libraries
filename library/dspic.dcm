@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 6/21/2012 4:55:36 AM
+EESchema-DOCLIB  Version 2.0  Date: 6/22/2012 3:27:03 AM
 #
 $CMP DSPIC33EP256MU806
 D 16-bit Digital Signal Controller with High-Speed PWM, USB, and Advanced Analog
@@ -6,6 +6,11 @@ K PWM, motor control, USB, OTG, QEI, quadrature encoder, dspic, RTCC
 $ENDCMP
 #
 $CMP DSPIC33FJ12MC201
+D High-Performance, 16-bit Digital Signal Controllers
+K PWM, QEI, motor, quadrature encoder, MCPWM
+$ENDCMP
+#
+$CMP dsPIC33FJ12MC202
 D High-Performance, 16-bit Digital Signal Controllers
 K PWM, QEI, motor, quadrature encoder, MCPWM
 $ENDCMP
