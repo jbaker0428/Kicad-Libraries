@@ -1,4 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: 6/22/2012 3:27:03 AM
+EESchema-DOCLIB  Version 2.0  Date: 6/26/2012 5:58:53 PM
+#
+$CMP dsPIC30F2010-SO
+D High-Performance, 16-bit Digital Signal Controllers
+K PWM QEI motor quadrature encoder MCPWM 5V
+$ENDCMP
 #
 $CMP DSPIC33EP256MU806
 D 16-bit Digital Signal Controller with High-Speed PWM, USB, and Advanced Analog
