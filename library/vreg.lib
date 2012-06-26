@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 6/25/2012 6:52:23 AM
+EESchema-LIBRARY Version 2.3  Date: 6/26/2012 4:45:32 PM
 #encoding utf-8
 #
 # LM22671
@@ -51,6 +51,7 @@ DEF TPS54040 U 0 40 Y Y 1 F N
 F0 "U" -300 600 60 H V C CNN
 F1 "TPS54040" -150 -600 60 H V C CNN
 F4 "Texas Instruments" 50 -700 60 H I C CNN "Manufacturer"
+ALIAS TPS54040A
 $FPLIST
  MSOP8
  S-PDSO-G10
