@@ -1,0 +1,108 @@
+PCBNEW-LibModule-V1  6/28/2012 2:18:12 AM
+# encoding utf-8
+$INDEX
+S-PDSO-G10
+$EndINDEX
+$MODULE S-PDSO-G10
+Po 0 0 0 15 4FEBF71F 00000000 ~~
+Li S-PDSO-G10
+Sc 00000000
+AR 
+Op 0 0 0
+T0 0 -1500 600 600 0 120 N V 21 N "S-PDSO-G10"
+T1 0 1500 600 600 0 120 N V 21 N "VAL**"
+DC -432 -472 -472 -472 38 21
+DS -591 -591 -591 591 75 24
+DS -591 591 591 591 75 21
+DS 591 591 591 -591 75 24
+DS 591 -591 -591 -591 75 21
+$PAD
+Sh "3" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 0
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "2" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 -197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "1" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 -394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "4" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "5" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "10" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 -394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "9" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 -197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "8" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 0
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "7" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "6" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "11" R 618 740 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+.LocalClearance 79
+$EndPAD
+$EndMODULE  S-PDSO-G10
+$EndLIBRARY
