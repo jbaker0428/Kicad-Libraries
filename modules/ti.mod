@@ -1,113 +1,11 @@
-PCBNEW-LibModule-V1  7/2/2012 7:10:34 PM
+PCBNEW-LibModule-V1  7/2/2012 7:13:25 PM
 # encoding utf-8
 $INDEX
 S-PDSO-G10
 S-PDSO-G10_4VIA
 $EndINDEX
-$MODULE S-PDSO-G10
-Po 0 0 0 15 4FED6228 00000000 ~~
-Li S-PDSO-G10
-Sc 00000000
-AR S-PDSO-G10
-Op 0 0 0
-T0 0 -886 300 300 0 60 N V 21 N "S-PDSO-G10"
-T1 0 886 300 300 0 60 N V 21 N "VAL**"
-DC -432 -472 -472 -472 38 21
-DS -591 -591 -591 591 75 24
-DS -591 591 591 591 75 21
-DS 591 591 591 -591 75 24
-DS 591 -591 -591 -591 75 21
-$PAD
-Sh "3" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -827 0
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "2" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -827 -197
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "1" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -827 -394
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "4" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -827 197
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "5" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -827 394
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "10" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 827 -394
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "9" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 827 -197
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "8" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 827 0
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "7" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 827 197
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "6" R 630 118 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 827 394
-.LocalClearance 39
-$EndPAD
-$PAD
-Sh "11" R 618 740 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 0 0
-.LocalClearance 79
-$EndPAD
-$EndMODULE  S-PDSO-G10
 $MODULE S-PDSO-G10_4VIA
-Po 0 0 0 15 4FF22A67 00000000 ~~
+Po 0 0 0 15 4FF22AD8 00000000 ~~
 Li S-PDSO-G10_4VIA
 Sc 00000000
 AR S-PDSO-G10
@@ -232,4 +130,106 @@ Po 157 185
 .LocalClearance 39
 $EndPAD
 $EndMODULE  S-PDSO-G10_4VIA
+$MODULE S-PDSO-G10
+Po 0 0 0 15 4FF22B12 00000000 ~~
+Li S-PDSO-G10
+Sc 00000000
+AR S-PDSO-G10
+Op 0 0 0
+T0 0 -800 200 200 0 40 N V 21 N "S-PDSO-G10"
+T1 0 500 90 90 0 20 N V 21 N "VAL**"
+DC -432 -472 -472 -472 38 21
+DS -591 -591 -591 591 75 24
+DS -591 591 591 591 75 21
+DS 591 591 591 -591 75 24
+DS 591 -591 -591 -591 75 21
+$PAD
+Sh "3" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 0
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "2" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 -197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "1" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 -394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "4" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "5" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -827 394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "10" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 -394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "9" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 -197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "8" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 0
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "7" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 197
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "6" R 630 118 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 827 394
+.LocalClearance 39
+$EndPAD
+$PAD
+Sh "11" R 618 740 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+.LocalClearance 79
+$EndPAD
+$EndMODULE  S-PDSO-G10
 $EndLIBRARY
