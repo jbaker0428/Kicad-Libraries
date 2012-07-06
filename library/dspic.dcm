@@ -1,6 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: 6/26/2012 5:58:53 PM
+EESchema-DOCLIB  Version 2.0  Date: 7/5/2012 8:50:12 PM
 #
-$CMP dsPIC30F2010-SO
+$CMP DSPIC30F2010-SO
+D High-Performance, 16-bit Digital Signal Controllers
+K PWM QEI motor quadrature encoder MCPWM 5V
+$ENDCMP
+#
+$CMP dsPIC30F3011-PT
 D High-Performance, 16-bit Digital Signal Controllers
 K PWM QEI motor quadrature encoder MCPWM 5V
 $ENDCMP
@@ -15,7 +20,7 @@ D High-Performance, 16-bit Digital Signal Controllers
 K PWM, QEI, motor, quadrature encoder, MCPWM
 $ENDCMP
 #
-$CMP dsPIC33FJ12MC202
+$CMP DSPIC33FJ12MC202
 D High-Performance, 16-bit Digital Signal Controllers
 K PWM, QEI, motor, quadrature encoder, MCPWM
 $ENDCMP
