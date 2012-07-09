@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 6/26/2012 4:45:32 PM
+EESchema-DOCLIB  Version 2.0  Date: 7/9/2012 9:34:57 AM
 #
 $CMP LM22671
 D SIMPLE SWITCHER®Power Converter 500 kHz 0.5A
@@ -8,6 +8,14 @@ $ENDCMP
 $CMP LM2594
 D SIMPLE SWITCHER®Power Converter 150 kHz 0.5A
 K spms vreg 2594 LM2594
+$ENDCMP
+#
+$CMP MCP1603-OS
+D 2.0 MHz, 500 mA Synchronous Buck Regulator
+$ENDCMP
+#
+$CMP MCP1603L-OS
+D 2.0 MHz, 500 mA Synchronous Buck Regulator
 $ENDCMP
 #
 $CMP TPS54040
