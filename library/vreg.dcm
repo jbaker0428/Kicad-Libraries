@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 7/9/2012 9:34:57 AM
+EESchema-DOCLIB  Version 2.0  Date: 10/25/2012 7:46:08 AM
 #
 $CMP LM22671
 D SIMPLE SWITCHER®Power Converter 500 kHz 0.5A
@@ -16,6 +16,11 @@ $ENDCMP
 #
 $CMP MCP1603L-OS
 D 2.0 MHz, 500 mA Synchronous Buck Regulator
+$ENDCMP
+#
+$CMP TLV700XX
+D 200-mA, Low-Iq, Low-Dropout Regulator for Portable Devices
+K LDO vreg
 $ENDCMP
 #
 $CMP TPS54040
