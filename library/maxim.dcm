@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 10/30/2012 2:36:53 AM
+#
+$CMP MAX8040
+D 76V, High-Side, Current-Sense Amplifiers with Voltage Output
+K MAX8040
+$ENDCMP
+#
+#End Doc Library
