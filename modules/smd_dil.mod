@@ -1,7 +1,8 @@
-PCBNEW-LibModule-V1  6/29/2012 4:16:01 AM
+PCBNEW-LibModule-V1  11/8/2012 2:09:05 PM
 # encoding utf-8
 $INDEX
 SOIC28W
+uMAX8
 $EndINDEX
 $MODULE SOIC28W
 Po 0 0 0 15 4FED6436 00000000 ~~
@@ -215,4 +216,82 @@ Ne 0 ""
 Po 1850 -3250
 $EndPAD
 $EndMODULE  SOIC28W
+$MODULE uMAX8
+Po 0 0 0 15 509C034E 00000000 ~~
+Li uMAX8
+Kw uMAX uMAX8 Maxim
+Sc 00000000
+AR 
+Op 0 0 0
+T0 0 -750 200 200 0 50 N V 21 N "uMAX8"
+T1 0 800 200 200 0 50 N V 21 N "VAL**"
+DS -591 -591 591 -591 38 21
+DS 591 -591 591 591 38 21
+DS 591 591 -591 591 38 21
+DS -591 591 -591 -591 38 21
+$PAD
+Sh "1" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -846 -384
+.LocalClearance 49
+$EndPAD
+$PAD
+Sh "2" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -846 -128
+.LocalClearance 49
+$EndPAD
+$PAD
+Sh "3" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -846 128
+.LocalClearance 49
+$EndPAD
+$PAD
+Sh "4" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -846 384
+.LocalClearance 49
+$EndPAD
+$PAD
+Sh "5" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 846 384
+.LocalClearance 49
+$EndPAD
+$PAD
+Sh "6" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 846 128
+.LocalClearance 49
+$EndPAD
+$PAD
+Sh "7" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 846 -128
+.LocalClearance 49
+$EndPAD
+$PAD
+Sh "8" R 531 157 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 846 -384
+.LocalClearance 49
+$EndPAD
+$EndMODULE  uMAX8
 $EndLIBRARY
