@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 10/25/2012 7:46:08 AM
+EESchema-DOCLIB  Version 2.0  Date: Sat 15 Dec 2012 04:41:45 AM EST
 #
 $CMP LM22671
 D SIMPLE SWITCHER®Power Converter 500 kHz 0.5A
@@ -8,6 +8,11 @@ $ENDCMP
 $CMP LM2594
 D SIMPLE SWITCHER®Power Converter 150 kHz 0.5A
 K spms vreg 2594 LM2594
+$ENDCMP
+#
+$CMP LM2674
+D SIMPLE SWITCHER®Power Converter 260 kHz 0.5A
+K spms vreg 2674 LM2674
 $ENDCMP
 #
 $CMP MCP1603-OS
