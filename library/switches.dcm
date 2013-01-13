@@ -1,3 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Sat 12 Jan 2013 10:59:49 PM EST
+EESchema-DOCLIB  Version 2.0  Date: Sun 13 Jan 2013 12:33:32 AM EST
+#
+$CMP NX3L2467
+D Dual low-ohmic double-pole double-throw analog switch
+K DPDT
+$ENDCMP
 #
 #End Doc Library
