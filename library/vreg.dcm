@@ -1,8 +1,13 @@
-EESchema-DOCLIB  Version 2.0  Date: Sat 15 Dec 2012 04:41:45 AM EST
+EESchema-DOCLIB  Version 2.0  Date: 1/14/2013 4:08:44 PM
 #
 $CMP LM22671
 D SIMPLE SWITCHER®Power Converter 500 kHz 0.5A
 K spms vreg 22671 LM22671
+$ENDCMP
+#
+$CMP LM2576
+D SIMPLE SWITCHER 3A Step-Down Voltage Regulator
+K spms vreg 2594 LM2594
 $ENDCMP
 #
 $CMP LM2594
